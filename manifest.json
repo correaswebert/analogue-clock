@@ -3,7 +3,7 @@
   "short_name": "Clock",
   "theme_color": "#00000073",
   "background_color": "#202020",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": ".",
